@@ -1,0 +1,15 @@
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\net5.0\FactoryPatternEx2.exe
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\net5.0\FactoryPatternEx2.deps.json
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\net5.0\FactoryPatternEx2.runtimeconfig.json
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\net5.0\FactoryPatternEx2.runtimeconfig.dev.json
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\net5.0\FactoryPatternEx2.dll
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\net5.0\ref\FactoryPatternEx2.dll
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\net5.0\FactoryPatternEx2.pdb
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\net5.0\FactoryPatternEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\net5.0\FactoryPatternEx2.AssemblyInfoInputs.cache
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\net5.0\FactoryPatternEx2.AssemblyInfo.cs
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\net5.0\FactoryPatternEx2.csproj.CoreCompileInputs.cache
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\net5.0\FactoryPatternEx2.dll
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\net5.0\ref\FactoryPatternEx2.dll
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\net5.0\FactoryPatternEx2.pdb
+C:\Users\forre\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\net5.0\FactoryPatternEx2.genruntimeconfig.cache
